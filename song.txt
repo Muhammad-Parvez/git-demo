@@ -1,16 +1,2 @@
-sword and spear
-wall of Sheilds
-standing strong
-on this their chosen battle field
-
-<<<<<<< HEAD
-From the lines 
-Shield by shield
-Side by side
-We're marching into destiny
----------------------------------
-=======
-From the lines
-Field by field
-
->>>>>>> c7e9dfbe73944475111859c058c3cc06688067a9
+first
+second
